@@ -1,0 +1,145 @@
+body{
+	background-color: #203740;
+	background-image: url("../img/dirt_tile.jpg");
+    background-repeat: repeat;
+	
+	
+}
+
+#header{
+	background-color: #61A6BF;
+	background-image: url("../img/stone_tile.jpg");
+    background-repeat: repeat;
+	text-align: center;
+	padding: 10px;
+	margin: auto;
+	font-family: 'Roboto', serif;
+    font-size: 38px;
+	box-shadow: 0px 7px 10px 0px #222222;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+#navBar{
+	
+	text-align: center;
+	width: auto;
+	margin: auto;
+	margin-top: 20px;
+	
+}
+
+#navBar a{
+	background-color: #61A6BF;
+	background-image: url("../img/stone_tile.jpg");
+    background-repeat: repeat;
+	font-family: 'Roboto', serif;
+	font-size: 30px;
+	color: #FFFFFF;
+	text-decoration: none;
+	padding: 0px 30px 0px 30px;
+	margin: 0px 20px 0px 20px;
+	box-shadow: 7px 7px 10px 0px #222222;
+}
+
+#navBar a:hover{
+	background-color: #75C7E5;
+	background-image: url("../img/stone_tile_hover.jpg");
+    background-repeat: repeat;
+	
+}
+
+#navBar a.active{
+	background-color: #416E7F;
+	background-image: url("../img/stone_tile_active.jpg");
+    background-repeat: repeat;
+}
+
+#rules-container{
+	background-color: #61A6BF;
+	background-image: url("../img/stone_tile.jpg");
+    background-repeat: repeat;
+	color: #FFFFFF;
+	font-family: 'Roboto', serif;
+	font-size: 20px;
+	padding: 20px;
+	margin: 20px;
+	margin-bottom: 5px;
+	box-shadow: 7px 7px 10px 0px #222222;
+}
+
+ul{
+	list-style-type: square;
+	margin-left: 10px;
+}
+
+h2{
+	font-weight: bold;
+	font-size: 24px;
+}
+
+#footer{
+	text-align: center;
+	color: #FFFFFF;
+	font-family: 'Roboto', serif;
+	font-size: 10px;
+	margin: 0p;
+	
+}
+
+#htp-container{
+	background-color: #61A6BF;
+	background-image: url("../img/stone_tile.jpg");
+    background-repeat: repeat;
+	color: #FFFFFF;
+	font-family: 'Roboto', serif;
+	font-size: 20px;
+	padding: 20px;
+	margin: 20px;
+	margin-bottom: 5px;
+	box-shadow: 7px 7px 10px 0px #222222;
+}
+
+#staff-container{
+	background-color: #61A6BF;
+	background-image: url("../img/stone_tile.jpg");
+    background-repeat: repeat;
+	color: #FFFFFF;
+	font-family: 'Roboto', serif;
+	font-size: 20px;
+	padding: 20px;
+	margin: 20px;
+	margin-bottom: 5px;
+	box-shadow: 7px 7px 10px 0px #222222;
+}
+
+span.red{
+	color: #FF0000;
+}
+
+span.blue{
+	color: #0000FF;
+}
+
+span.black{
+	color: #000000;
+}
+
+span.green{
+	color:#00FF00;
+}
+span.under{
+	text-decoration: underline;
+}
+
+#nobeggy{
+	background-color: #000000;
+	margin: auto;
+	color: #FF0000;
+	padding: 10px;
+	text-align: center;
+}
+
+a{
+	color: #FFFFFF;
+}
